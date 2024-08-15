@@ -1,9 +1,3 @@
 {
-    "timeout": "5",
-    "cf_clearance": "",
-    "PCP": "",
-    "YII_CSRF_TOKEN": "",
-    "language": "",
-    "session": "",
-    "popuponetime": ""
+    "password": "Dear12345"
 }
